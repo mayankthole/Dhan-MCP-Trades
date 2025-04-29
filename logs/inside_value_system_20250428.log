@@ -1,0 +1,103 @@
+2025-04-28 13:30:29,065 - INFO - bullish-inside-value-testing - <module> - Inside Value Intraday Scanner with Position Flip v1.0 - Starting
+2025-04-28 13:30:35,135 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 7783423452
+2025-04-28 13:30:36,532 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 6320586394
+2025-04-28 13:30:36,533 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Starting full scan at 13:30:36
+2025-04-28 13:30:36,533 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Processing batch 1/11 (10 stocks)...
+2025-04-28 13:30:38,644 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for ABB
+2025-04-28 13:30:41,760 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for AUBANK
+2025-04-28 13:30:44,884 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for AARTIIND
+2025-04-28 13:30:47,989 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for ADANIENT
+2025-04-28 13:30:51,106 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for ADANIGREEN
+2025-04-28 13:30:54,220 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for ADANIPORTS
+2025-04-28 13:30:57,333 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for AMBUJACEM
+2025-04-28 13:31:00,424 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for ASHOKLEY
+2025-04-28 13:31:03,524 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for ASIANPAINT
+2025-04-28 13:31:06,624 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for AUROPHARMA
+2025-04-28 13:31:12,633 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Processing batch 2/11 (10 stocks)...
+2025-04-28 13:31:14,728 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for AXISBANK
+2025-04-28 13:31:17,828 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BSOFT
+2025-04-28 13:31:20,921 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BSE
+2025-04-28 13:31:24,040 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BAJAJ-AUTO
+2025-04-28 13:31:27,140 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BAJFINANCE
+2025-04-28 13:31:30,257 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BAJAJFINSV
+2025-04-28 13:31:33,355 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BANDHANBNK
+2025-04-28 13:31:36,466 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BANKBARODA
+2025-04-28 13:31:39,578 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BEL
+2025-04-28 13:31:42,676 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BHARATFORG
+2025-04-28 13:31:48,682 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Processing batch 3/11 (10 stocks)...
+2025-04-28 13:31:50,802 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BHEL
+2025-04-28 13:31:53,920 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BPCL
+2025-04-28 13:31:57,032 - WARNING - bullish-inside-value-testing - check_intraday_inside_value - Not enough daily data for BHARTIARTL
+2025-04-28 13:32:06,427 - INFO - bullish-inside-value-testing - <module> - Inside Value Intraday Scanner with Position Flip v1.0 - Starting
+2025-04-28 13:32:12,171 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 7783423452
+2025-04-28 13:32:13,297 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 6320586394
+2025-04-28 13:32:13,297 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Starting full scan at 13:32:13
+2025-04-28 13:32:13,298 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Processing batch 1/11 (10 stocks)...
+2025-04-28 13:32:17,527 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ABB - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:32:17,528 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ABB - first row: {'open': 5720.0, 'high': 5733.0, 'low': 5672.0, 'close': 5676.0, 'volume': 27483.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:32:20,604 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ABB: 5525
+2025-04-28 13:32:25,844 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for AUBANK - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:32:25,844 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for AUBANK - first row: {'open': 658.5, 'high': 671.7, 'low': 655.6, 'close': 669.5, 'volume': 890446.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:32:28,917 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for AUBANK: 680
+2025-04-28 13:32:35,150 - INFO - bullish-inside-value-testing - <module> - Inside Value Intraday Scanner with Position Flip v1.0 - Starting
+2025-04-28 13:32:40,288 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 7783423452
+2025-04-28 13:32:41,467 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 6320586394
+2025-04-28 13:32:41,469 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Starting full scan at 13:32:41
+2025-04-28 13:32:41,469 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Processing batch 1/1 (5 stocks)...
+2025-04-28 13:32:45,729 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ABB - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:32:45,729 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ABB - first row: {'open': 5720.0, 'high': 5733.0, 'low': 5672.0, 'close': 5676.0, 'volume': 27483.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:32:48,805 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ABB: 5526.5
+2025-04-28 13:32:54,054 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for AUBANK - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:32:54,054 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for AUBANK - first row: {'open': 658.5, 'high': 671.7, 'low': 655.6, 'close': 669.5, 'volume': 890446.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:32:57,133 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for AUBANK: 679.95
+2025-04-28 13:33:02,396 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for AARTIIND - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:33:02,398 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for AARTIIND - first row: {'open': 435.0, 'high': 442.45, 'low': 433.8, 'close': 442.0, 'volume': 280641.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:33:05,478 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for AARTIIND: 431
+2025-04-28 13:33:10,742 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:33:10,742 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - first row: {'open': 2450.0, 'high': 2459.9, 'low': 2441.0, 'close': 2448.3, 'volume': 67783.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:33:13,813 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2376.9
+2025-04-28 13:33:13,813 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Added ADANIENT to hot watchlist
+2025-04-28 13:33:14,958 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 7783423452
+2025-04-28 13:33:16,125 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 6320586394
+2025-04-28 13:33:21,386 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:33:21,387 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - first row: {'open': 956.9, 'high': 962.65, 'low': 954.05, 'close': 955.2, 'volume': 374628.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:33:24,448 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.5
+2025-04-28 13:33:24,448 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Added ADANIGREEN to hot watchlist
+2025-04-28 13:33:25,609 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 7783423452
+2025-04-28 13:33:26,743 - INFO - bullish-inside-value-testing - send_telegram_alerts_to_multiple_bots - Alert sent via bot to chat ID: 6320586394
+2025-04-28 13:33:33,765 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Scanning hot list at 13:33:33 - 2 stocks
+2025-04-28 13:33:36,838 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2377.2
+2025-04-28 13:33:41,102 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:33:41,103 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - first row: {'open': 2450.0, 'high': 2459.9, 'low': 2441.0, 'close': 2448.3, 'volume': 67783.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:33:44,177 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2376.3
+2025-04-28 13:33:48,259 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.15
+2025-04-28 13:33:52,509 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:33:52,510 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - first row: {'open': 956.9, 'high': 962.65, 'low': 954.05, 'close': 955.2, 'volume': 374628.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:33:55,592 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.15
+2025-04-28 13:34:34,765 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Scanning hot list at 13:34:34 - 2 stocks
+2025-04-28 13:34:37,851 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2377.7
+2025-04-28 13:34:42,079 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:34:42,081 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - first row: {'open': 2450.0, 'high': 2459.9, 'low': 2441.0, 'close': 2448.3, 'volume': 67783.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:34:45,169 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2378.2
+2025-04-28 13:34:49,249 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.5
+2025-04-28 13:34:53,498 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:34:53,498 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - first row: {'open': 956.9, 'high': 962.65, 'low': 954.05, 'close': 955.2, 'volume': 374628.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:34:56,572 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.8
+2025-04-28 13:35:35,726 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Scanning hot list at 13:35:35 - 2 stocks
+2025-04-28 13:35:38,807 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2376.6
+2025-04-28 13:35:43,055 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:35:43,056 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - first row: {'open': 2450.0, 'high': 2459.9, 'low': 2441.0, 'close': 2448.3, 'volume': 67783.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:35:46,127 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2376.6
+2025-04-28 13:35:50,192 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936
+2025-04-28 13:35:54,429 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:35:54,430 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - first row: {'open': 956.9, 'high': 962.65, 'low': 954.05, 'close': 955.2, 'volume': 374628.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:35:57,507 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.1
+2025-04-28 13:36:36,657 - INFO - bullish-inside-value-testing - scan_stocks_continuous_multi_bots - Scanning hot list at 13:36:36 - 2 stocks
+2025-04-28 13:36:39,727 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2377.8
+2025-04-28 13:36:43,934 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:36:43,934 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIENT - first row: {'open': 2450.0, 'high': 2459.9, 'low': 2441.0, 'close': 2448.3, 'volume': 67783.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:36:46,994 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIENT: 2378.9
+2025-04-28 13:36:51,057 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 936.75
+2025-04-28 13:36:55,265 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - columns: ['open', 'high', 'low', 'close', 'volume', 'timestamp']
+2025-04-28 13:36:55,266 - DEBUG - bullish-inside-value-testing - get_current_day_candle - Intraday data for ADANIGREEN - first row: {'open': 956.9, 'high': 962.65, 'low': 954.05, 'close': 955.2, 'volume': 374628.0, 'timestamp': Timestamp('2025-04-24 09:15:00+0530', tz='UTC+05:30')}
+2025-04-28 13:36:58,320 - DEBUG - bullish-inside-value-testing - get_ltp_safely - LTP fetch successful for ADANIGREEN: 937.4
