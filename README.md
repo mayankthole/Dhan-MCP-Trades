@@ -68,9 +68,9 @@ python -m mcp.server.cli dev <tool_filename>.py
 
 📈 Expanded Example Trading Commands
 🛒 Basic Order Placement
-"Buy 10 shares of Infosys at market price"
+- "Buy 10 shares of Infosys at market price"
 
-"Sell 5 shares of TCS at limit price of ₹3500"
+- "Sell 5 shares of TCS at limit price of ₹3500"
 
 "Place a GTT order to buy 20 shares of HDFC Bank at ₹1450"
 
