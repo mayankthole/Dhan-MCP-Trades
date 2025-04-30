@@ -72,74 +72,74 @@ python -m mcp.server.cli dev <tool_filename>.py
 
 - "Sell 5 shares of TCS at limit price of ₹3500"
 
-"Place a GTT order to buy 20 shares of HDFC Bank at ₹1450"
+- "Place a GTT order to buy 20 shares of HDFC Bank at ₹1450"
 
 🎯 Orders with Stop-Loss and Targets
-"Buy Reliance with 2% target and 1% stop-loss"
+- "Buy Reliance with 2% target and 1% stop-loss"
 
-"Place a trailing stop-loss buy order for Tata Motors"
+- "Place a trailing stop-loss buy order for Tata Motors"
 
-"Short sell Axis Bank with 5% target and 2% stop-loss"
+- "Short sell Axis Bank with 5% target and 2% stop-loss"
 
 🌙 After-Market & Scheduled Orders
-"Create an after-market order to buy 100 shares of ONGC at ₹180"
+- "Create an after-market order to buy 100 shares of ONGC at ₹180"
 
-"Schedule a buy order for Tech Mahindra tomorrow at 9:15 AM"
+- "Schedule a buy order for Tech Mahindra tomorrow at 9:15 AM"
 
 💼 Account Insights
-"What are my current holdings?"
+- "What are my current holdings?"
 
-"Check my available balance and margin"
+- "Check my available balance and margin"
 
-"Show me my open positions and unrealized profits"
+- "Show me my open positions and unrealized profits"
 
 📊 Portfolio & P&L Analysis
-"Analyze my portfolio performance this month"
+- "Analyze my portfolio performance this month"
 
-"Give me a P&L report on all banking sector trades"
+- "Give me a P&L report on all banking sector trades"
 
-"What was my best-performing stock in the last 30 days?"
+- "What was my best-performing stock in the last 30 days?"
 
 🤖 Smart, Context-Aware Voice Commands
-"Buy all PSU bank stocks"
+- "Buy all PSU bank stocks"
 
-"Short all private sector banks today"
+- "Short all private sector banks today"
 
-"Go long on top 5 Nifty IT companies"
+- "Go long on top 5 Nifty IT companies"
 
-"Buy 2 shares of the company whose promoter's son just had a grand wedding"
+- "Buy 2 shares of the company whose promoter's son just had a grand wedding"
 
-"Tail the stop-loss of all chemical sector stocks"
+- "Tail the stop-loss of all chemical sector stocks"
 
 📌 Contextual & Thematic Trading
-"Buy all companies headquartered in Mumbai"
+- "Buy all companies headquartered in Mumbai"
 
-"Buy companies where promoter stake is increasing quarter-on-quarter"
+- "Buy companies where promoter stake is increasing quarter-on-quarter"
 
-"Short all companies dependent heavily on China for raw materials"
+- "Short all companies dependent heavily on China for raw materials"
 
-"Buy the top 5 companies based on market cap in India"
+- "Buy the top 5 companies based on market cap in India"
 
 📈 Technical Signal-Based Trading
-"Buy breakout stocks above 200-day moving average"
+- "Buy breakout stocks above 200-day moving average"
 
-"Short stocks that broke below lower Bollinger Band"
+- "Short stocks that broke below lower Bollinger Band"
 
-"Buy stocks where RSI crossed above 70"
+- "Buy stocks where RSI crossed above 70"
 
-"Enter trades in mean reversion stocks with tight stop-loss"
+- "Enter trades in mean reversion stocks with tight stop-loss"
 
 🔍 Advanced Filtering & Signal Scanning
-"Buy companies where profits grew more than 10% quarter-on-quarter"
+- "Buy companies where profits grew more than 10% quarter-on-quarter"
 
-"Buy stocks down more than 20% from all-time highs with high volume"
+- "Buy stocks down more than 20% from all-time highs with high volume"
 
-"Sell all stocks affected by global crude oil prices"
+- "Sell all stocks affected by global crude oil prices"
 
 🔁 Pairs & Strategy-Based Trading
-"Buy 3 shares of Reliance and sell 2 shares of Bharti Airtel"
+- "Buy 3 shares of Reliance and sell 2 shares of Bharti Airtel"
 
-"Do pair trading between ICICI Bank and Axis Bank"
+- "Do pair trading between ICICI Bank and Axis Bank"
 
 
 
