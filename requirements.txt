@@ -1,0 +1,8 @@
+# Core dependencies
+mcp>=1.0.0
+mcp[cli]>=1.0.0
+requests>=2.28.0
+
+# Optional development dependencies
+pytest>=7.0.0
+pytest-cov>=3.0.0
